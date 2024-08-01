@@ -82,19 +82,7 @@
     * Vulnerabilidades comuns e como evitá-las
     * Boas práticas de segurança web
 
-**Observações:**
 
-* **Flexibilidade:** Adapte o conteúdo e a ordem dos módulos de acordo com o perfil dos alunos e os objetivos do curso.
-* **Prática:** Inclua muitos exercícios práticos para que os alunos consolidem o aprendizado.
-* **Projetos:** Incentive a criação de projetos individuais e em grupo para aplicar os conhecimentos adquiridos.
-* **Ferramentas:** Utilize ferramentas e tecnologias atuais e populares.
-* **Recursos:** Indique recursos adicionais como tutoriais, documentação e comunidades online.
-
-**Recursos Adicionais:**
-
-* **Plataformas de Ensino Online:** Udemy, Coursera, edX, Khan Academy
-* **Documentação Oficial:** MDN Web Docs, W3Schools
-* **Comunidades:** Stack Overflow, GitHub, Reddit
 
 **Este esboço pode ser utilizado como base para criar um curso completo e abrangente de desenvolvimento web para iniciantes. É importante lembrar que a área de desenvolvimento web está em constante evolução, portanto, mantenha-se atualizado com as últimas tendências e tecnologias.**
 
