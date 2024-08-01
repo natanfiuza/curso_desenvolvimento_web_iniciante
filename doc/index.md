@@ -82,8 +82,3 @@
     * Vulnerabilidades comuns e como evitá-las
     * Boas práticas de segurança web
 
-
-
-**Este esboço pode ser utilizado como base para criar um curso completo e abrangente de desenvolvimento web para iniciantes. É importante lembrar que a área de desenvolvimento web está em constante evolução, portanto, mantenha-se atualizado com as últimas tendências e tecnologias.**
-
-**Gostaria de que eu aprofunde algum tópico em específico ou adicione algum outro módulo?**
